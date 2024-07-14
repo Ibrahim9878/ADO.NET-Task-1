@@ -1,0 +1,60 @@
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1.csproj.AssemblyReference.cache
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\SignUpWindow.g.cs
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1_MarkupCompile.cache
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1_MarkupCompile.lref
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\bin\Debug\net8.0-windows\ADO TASK 1.exe
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\bin\Debug\net8.0-windows\ADO TASK 1.deps.json
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\bin\Debug\net8.0-windows\ADO TASK 1.runtimeconfig.json
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\bin\Debug\net8.0-windows\ADO TASK 1.dll
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\bin\Debug\net8.0-windows\ADO TASK 1.pdb
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\SignUpWindow.baml
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1.g.resources
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1.AssemblyInfoInputs.cache
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1.AssemblyInfo.cs
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1.csproj.CoreCompileInputs.cache
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1.csproj.Up2Date
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1.dll
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\refint\ADO TASK 1.dll
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1.pdb
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1.genruntimeconfig.cache
+C:\Users\Talib_ip88\source\repos\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ref\ADO TASK 1.dll
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\bin\Debug\net8.0-windows\ADO TASK 1.exe
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\bin\Debug\net8.0-windows\ADO TASK 1.deps.json
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\bin\Debug\net8.0-windows\ADO TASK 1.runtimeconfig.json
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\bin\Debug\net8.0-windows\ADO TASK 1.dll
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\bin\Debug\net8.0-windows\ADO TASK 1.pdb
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1.csproj.AssemblyReference.cache
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\SignUpWindow.g.cs
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1_MarkupCompile.cache
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1_MarkupCompile.lref
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\SignUpWindow.baml
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1.g.resources
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1.AssemblyInfoInputs.cache
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1.AssemblyInfo.cs
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1.csproj.Up2Date
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1.dll
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\refint\ADO TASK 1.dll
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1.pdb
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ADO TASK 1.genruntimeconfig.cache
+C:\Users\Ibrahim\Desktop\ADO TASK 1\ADO TASK 1\obj\Debug\net8.0-windows\ref\ADO TASK 1.dll

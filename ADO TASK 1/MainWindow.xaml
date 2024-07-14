@@ -1,0 +1,26 @@
+﻿<Window x:Class="ADO_TASK_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ADO_TASK_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="310" Width="400">
+    <Grid>
+        <StackPanel>
+            <StackPanel >
+                <Label Content="Login" FontSize="30" HorizontalAlignment="Center" FontWeight="Bold"/>
+                <TextBox Name="LoginBox" Width="200" Height="30" FontSize="23"/>
+            </StackPanel>
+            <StackPanel >
+                <Label Content="Password" FontSize="30" HorizontalAlignment="Center" FontWeight="Bold"/>
+                <TextBox Name="PasswordBox" Width="200" Height="30" FontSize="23"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="30">
+                <Button FontSize="25" Content="Sign In" Width="100" FontWeight="Bold" Height="50" Margin="20" Background="CadetBlue" Click="SignInClick"/>
+                <Button FontSize="25" Content="Sign Up" Width="100" FontWeight="Bold" Margin="20" Background="CadetBlue" Click="SignUpClick"/>
+            </StackPanel>
+        </StackPanel>
+      
+    </Grid>
+</Window>
